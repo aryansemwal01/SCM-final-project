@@ -16,12 +16,14 @@ Description: Match images of different fruits.
 Features:
 1. Enter your name at the start.
 2. Track the number of wrong tries for better performance insights.
+
 Version 2: Shape Theme
 Description: Match various shapes.
 Features:
 1. Count total moves to improve efficiency.
 2. Play Again and End Game buttons for seamless gameplay.
 3. Enjoy an interactive end game video upon completion.
+
 Version 3: Jungle Theme
 Description: Match jungle-themed images.
 Features:
