@@ -1,0 +1,13 @@
+body
+{
+    background-image: url("avenger.jpg");
+    background-size:cover;
+    background-repeat:repeat;
+}
+h1{
+    color: yellow;
+}
+p{
+    color: white;
+    font-size: large;
+}
